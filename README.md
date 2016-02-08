@@ -147,4 +147,3 @@ Node Security (+) is brought to you by [^lift security](https://liftsecurity.io)
 
     See the License for the specific language governing permissions and
     limitations under the License.
-
